@@ -1,0 +1,1 @@
+Dedalus will run parallelized in HPC system. The job_script.sh can be used to submit as a slurm job.
